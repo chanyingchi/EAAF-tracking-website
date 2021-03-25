@@ -1,57 +1,36 @@
 ---
-title: Example Event
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+abstract: Want to learn more about shorebird tracking research in the EAAF? In
+  this first webinar we invited four speakers from different parts of our
+  flyway.
+slides: null
+url_pdf: ""
+summary: An example event.
+title: EAAF Shorebird Tracking Group 1st Webinar
+location: Zoom. Please register in the link below.
+date: 2021-04-13T12:30:00.000Z
+date_end: 2021-04-13T14:00:00.000Z
+all_day: false
+event: EAAF Shorebird Tracking Group 1st Webinar
+event_url: https://us02web.zoom.us/meeting/register/tZUtdeippj0jHNysDr1XaRTjIvJDFEt5IIoQ
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+links: []
+publishDate: 2021-03-25T11:17:23.642Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: null
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
+  caption: ""
+  focal_point: SMART
+  filename: trackeaaf-webinar1.jpeg
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
 ---
 
 Slides can be added in a few ways:
