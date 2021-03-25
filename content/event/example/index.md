@@ -10,7 +10,7 @@ location: Zoom. Please register in the link below.
 date: 2021-04-13T12:30:00.000Z
 date_end: 2021-04-13T14:00:00.000Z
 all_day: false
-event: EAAF Shorebird Tracking Group 1st Webinar
+event: Zoom registration link
 event_url: https://us02web.zoom.us/meeting/register/tZUtdeippj0jHNysDr1XaRTjIvJDFEt5IIoQ
 featured: false
 authors: []
@@ -28,7 +28,7 @@ tags: []
 projects: null
 image:
   caption: ""
-  focal_point: SMART
+  focal_point: CENTER
   filename: trackeaaf-webinar1.jpeg
 url_code: ""
 ---
