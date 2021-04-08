@@ -4,7 +4,7 @@ abstract: Want to learn more about shorebird tracking research in the EAAF? In
   flyway.
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: 
 title: EAAF Shorebird Tracking Group 1st Webinar
 location: Zoom. Please register in the link below.
 date: 2021-04-13T12:30:00.000Z
