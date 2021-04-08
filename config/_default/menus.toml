@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "Tracking Project Directory"
+  url = "project"
   weight = 50
 
 [[main]]
